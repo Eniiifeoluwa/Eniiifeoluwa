@@ -131,13 +131,7 @@ class SamuelAfolabi:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Eniiifeoluwa&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-</div>
 
-## 📈 **Contribution Stats**
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api/wakatime?username=Eniiifeoluwa&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
 
 </div>
 
