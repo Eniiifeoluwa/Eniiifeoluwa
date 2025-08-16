@@ -143,8 +143,8 @@ class SamuelAfolabi:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/akinola-afolabi)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:akinolaayomide226@gmail.com)
-[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000)](https://x.com/Oluwaagbemileke?s=09)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&labelColor=000000)](https://YOUR_PORTFOLIO.com)
+[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=X&logoColor=white&labelColor=000000)](https://x.com/Oluwaagbemileke?s=09)
+<!--[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&labelColor=000000)](https://YOUR_PORTFOLIO.com) -->
 
 </div>
 
