@@ -192,7 +192,7 @@ graph TD
 
 **⭐ Star my repositories if you find them interesting!**
 
-![Visitor Count](https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Eniiifeoluwa/count.svg)
 
 </div>
 
