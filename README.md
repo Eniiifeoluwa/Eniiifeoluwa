@@ -97,7 +97,7 @@ class SamuelAfolabi:
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🧠 **[AI Chatbot with RAG + LangChain](#)** | Intelligent conversational AI with retrieval-augmented generation | `Python` `LangChain` `Hugging Face` `FastAPI` |
+| 🚀 **[RepoPilot – AI GitHub Assistant](https://github.com/Eniiifeoluwa/RepoPilot)** | AI-powered GitHub workflow automation that analyzes, summarizes, and labels issues & pull requests | `Python` `FastAPI` `SQLite` `GitHub Actions` `Hugging Face` |
 | 👁️ **[Computer Vision Pipeline](#)** | End-to-end object detection & classification system | `PyTorch` `OpenCV` `YOLO` `Docker` |
 | 📊 **[Biostatistical Analysis Dashboard](#)** | Interactive dashboard for clinical data insights | `R Shiny` `Power BI` `SQL` `Azure` |
 | 🤖 **[LLM Fine-Tuning Framework](#)** | Custom large language model training pipeline | `Transformers` `PyTorch` `PEFT` `Weights & Biases` |
@@ -196,6 +196,5 @@ graph TD
 
 *"Building the future, one algorithm at a time."* 🚀
 
-**Made with ❤️ by Akinola Samuel Afolabi**
 
 </div>
