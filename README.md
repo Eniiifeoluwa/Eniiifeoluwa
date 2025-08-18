@@ -98,8 +98,8 @@ class SamuelAfolabi:
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | 🚀 **[RepoPilot – AI GitHub Assistant](https://github.com/Eniiifeoluwa/RepoPilot)** | AI-powered GitHub workflow automation that analyzes, summarizes, and labels issues & pull requests | `Python` `FastAPI` `SQLite` `GitHub Actions` `Hugging Face` |
-| 👁️ **[Dermatologist Anike](https://dermatologist-anike.streamlit.app/)** |AI-powered Skin Disease detection | `PyTorch` `OpenCV & Streamlit` `FastAPI % CI/CD` `EfficientNer` |
-| 📊 **[GlucoSight](https://olamidipupo.shinyapps.io/glucosight)** | Diabetes anomalies detection, dashboard, and Prediction Web App | `R Programming and Shiny` `Plotly and ggplot` `Python` |
+| 👁️ **[Dermatologist Anike](https://dermatologist-anike.streamlit.app/)** |AI-powered Skin Disease detection | `PyTorch` `OpenCV` `Streamlit` `FastAPI` `CI/CD` `EfficientNet` |
+| 📊 **[GlucoSight](https://olamidipupo.shinyapps.io/glucosight)** | Diabetes anomalies detection, dashboard, and Prediction Web App | `R Programming` `R Shiny` `Plotly` `ggplot` `Python` |
 | 🤖 **[Calmi - AI Mental Assistance](https://mentalcalmi.streamlit.app)** | AI Powered Mental Health Assistant, finetuned on Gemma-3-270M | `Transformers` `PyTorch` `PEFT` `Streamlit` |
 | 📈 **[MLOps Production Pipeline](#)** | Scalable ML model deployment and monitoring | `MLflow` `Docker` `Kubernetes` `GCP` |
 
