@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+Data+Scientist;Machine+Learning+Engineer;Biostatistician;Transforming+Data+into+Intelligence)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+Data+Scientist;Machine+Learning+Engineer;Software+Engineer;Biostatistician;Transforming+Data+into+Intelligence)
 
 </div>
 
@@ -14,7 +14,7 @@
 class SamuelAfolabi:
     def __init__(self):
         self.name = "Akinola Samuel Afolabi"
-        self.roles = ["AI Engineer", "Data Scientist", "ML Engineer", "Biostatistician"]
+        self.roles = ["AI Engineer", "Software Engineer", "Data Scientist", "ML Engineer", "Biostatistician"]
         self.passion = "Transforming data into intelligence with AI, NLP, LLMs & Computer Vision"
         self.expertise = {
             "ai_ml": ["Computer Vision", "Transformers", "LLMs", "NLP", "RAG"],
