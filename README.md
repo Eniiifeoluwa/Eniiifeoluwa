@@ -125,16 +125,13 @@ class SamuelAfolabi:
 
 </div>
 
-## 🏆 **GitHub Trophies**
+## 🏆 GitHub Trophies  
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Eniiifeoluwa&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Eniiifeoluwa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## 🌐 **Connect With Me**
